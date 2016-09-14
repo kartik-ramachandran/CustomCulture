@@ -1,0 +1,6 @@
+E:\Sample_Projects\CustomCultures\CustomCultures\CustomCultures\bin\Debug\CustomCultures.exe.config
+E:\Sample_Projects\CustomCultures\CustomCultures\CustomCultures\bin\Debug\CustomCultures.exe
+E:\Sample_Projects\CustomCultures\CustomCultures\CustomCultures\bin\Debug\CustomCultures.pdb
+E:\Sample_Projects\CustomCultures\CustomCultures\CustomCultures\obj\Debug\CustomCultures.csprojResolveAssemblyReference.cache
+E:\Sample_Projects\CustomCultures\CustomCultures\CustomCultures\obj\Debug\CustomCultures.exe
+E:\Sample_Projects\CustomCultures\CustomCultures\CustomCultures\obj\Debug\CustomCultures.pdb
